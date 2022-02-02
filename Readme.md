@@ -1,0 +1,6 @@
+# Used Tehnologies
+
+![](https://img.shields.io/badge/code-typescript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/framework-react-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
+
+Example taken from my other [repository](https://github.com/just-noname-bing/react-three-fiber).
